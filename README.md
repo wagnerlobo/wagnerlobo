@@ -20,7 +20,15 @@ Reach me Out
 ![image](https://user-images.githubusercontent.com/67172241/123692533-4c4a5580-d82d-11eb-8e29-412d4951b42d.png)
 ![image](https://user-images.githubusercontent.com/67172241/123692943-ced31500-d82d-11eb-8836-222405017a66.png)
 ![image](https://user-images.githubusercontent.com/67172241/123693003-e1e5e500-d82d-11eb-859b-f513ed81b09d.png)
-)
+![image](https://user-images.githubusercontent.com/67172241/123693632-ab5c9a00-d82e-11eb-9cbe-a3c190e561a4.png)
+![image](https://user-images.githubusercontent.com/67172241/123693658-b7e0f280-d82e-11eb-9c73-5c912574074c.png)
+![image](https://user-images.githubusercontent.com/67172241/123693694-c16a5a80-d82e-11eb-91d9-ef6d5599d384.png)
+![image](https://user-images.githubusercontent.com/67172241/123693876-fe365180-d82e-11eb-8886-587d7f09d2fe.png)
+![image](https://user-images.githubusercontent.com/67172241/123693982-1ad28980-d82f-11eb-842d-8ccc93d72a9a.png)
+![image](https://user-images.githubusercontent.com/67172241/123694045-3178e080-d82f-11eb-8383-910e3411e629.png)
+![image](https://user-images.githubusercontent.com/67172241/123694071-39d11b80-d82f-11eb-8c88-89f02baa98ab.png)
+![image](https://user-images.githubusercontent.com/67172241/123694121-4786a100-d82f-11eb-8e0b-e896f9e95f7f.png)
+
 
 <!--
 **wagnerlobo/wagnerlobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
