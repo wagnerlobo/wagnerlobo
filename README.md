@@ -1,6 +1,8 @@
 ### Hi 👋
 
-My name is Wagner Lobo, student of software engineering and systems analysis and development, looking for opportunities and collaboration in projects related to front end.
+## I live in 🇧🇷 , in the northeast of the country, blessed land
+
+I student of software engineering and systems analysis and development, looking for opportunities and collaboration in projects related to front end.
 
 ✔ Currently working on my learning possibilities, skills and gaining experience with small projects.
 
