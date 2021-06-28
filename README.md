@@ -1,8 +1,10 @@
 ### Hi 👋
 
-## I live in 🇧🇷 , in the northeast of the country, blessed land
+#### I'm Wagner Lobo
 
-I student of software engineering and systems analysis and development, looking for opportunities and collaboration in projects related to front end.
+#### live in Brazil, in the northeast of the country, blessed land 
+
+I'm a student of software engineering and systems analysis and development, looking for opportunities and collaboration in projects related to front end.
 
 ✔ Currently working on my learning possibilities, skills and gaining experience with small projects.
 
