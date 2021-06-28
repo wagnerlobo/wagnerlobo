@@ -11,7 +11,7 @@ My name is Wagner Lobo, student of software engineering and systems analysis and
 
 ### 🌎  O conhecimento salva!
 
-📍 From :Brazil: Living in Fortaleza, Ceará.
+📍 From Fortaleza: Living in :Brazil:, Ceará.
 
 💻 Student of Software Engineering and Systems Analysis and Development
 
