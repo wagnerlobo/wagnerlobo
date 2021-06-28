@@ -19,7 +19,7 @@ Reach me Out
 
 ![image](https://user-images.githubusercontent.com/67172241/123692533-4c4a5580-d82d-11eb-8e29-412d4951b42d.png)
 ![image](https://user-images.githubusercontent.com/67172241/123692943-ced31500-d82d-11eb-8836-222405017a66.png)
-![image](https://user-images.githubusercontent.com/67172241/123693003-e1e5e500-d82d-11eb-859b-f513ed81b09d.png)
+![image](https://user-images.githubusercontent.com/67172241/123693003-e1e5e500-d82d-11eb-859b-f513ed81b09d.png/https://www.linkedin.com/in/wagner-lobo-578b9b1b0/)
 ![image](https://user-images.githubusercontent.com/67172241/123693632-ab5c9a00-d82e-11eb-9cbe-a3c190e561a4.png)
 ![image](https://user-images.githubusercontent.com/67172241/123693658-b7e0f280-d82e-11eb-9c73-5c912574074c.png)
 ![image](https://user-images.githubusercontent.com/67172241/123693694-c16a5a80-d82e-11eb-91d9-ef6d5599d384.png)
