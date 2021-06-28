@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
-I'm Wagner Lobo, student of software engineering and systems analysis and development, looking for opportunities and collaboration in projects related to front end.
+My name is Wagner Lobo, student of software engineering and systems analysis and development, looking for opportunities and collaboration in projects related to front end.
 
 ✔ Currently working on my learning possibilities, skills and gaining experience with small projects.
 
