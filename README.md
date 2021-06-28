@@ -15,7 +15,11 @@ My name is Wagner Lobo, student of software engineering and systems analysis and
 
 💻 Student of Software Engineering and Systems Analysis and Development
 
+Reach me Out
+
 ![image](https://user-images.githubusercontent.com/67172241/123692533-4c4a5580-d82d-11eb-8e29-412d4951b42d.png)
+![image](https://user-images.githubusercontent.com/67172241/123692943-ced31500-d82d-11eb-8836-222405017a66.png)
+![image](https://user-images.githubusercontent.com/67172241/123693003-e1e5e500-d82d-11eb-859b-f513ed81b09d.png/https://www.linkedin.com/in/wagner-lobo-578b9b1b0/)
 
 
 <!--
