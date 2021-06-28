@@ -15,9 +15,6 @@ My name is Wagner Lobo, student of software engineering and systems analysis and
 
 💻 Student of Software Engineering and Systems Analysis and Development
 
-Reach me out 
-
-[! [Emblema do Linkedin] (https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/iin/wagner-lobo-578b9b1b0/)] (https://www.linkedin.com/in/https://www.linkedin.com/in/wagner-lobo-578b9b1b0/) 
 
 
 <!--
