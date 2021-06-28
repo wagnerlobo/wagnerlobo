@@ -21,13 +21,9 @@ I'm a student of software engineering and systems analysis and development, look
 
 Reach me Out
 
-![image](https://user-images.githubusercontent.com/67172241/123692533-4c4a5580-d82d-11eb-8e29-412d4951b42d.png)
-![image](https://user-images.githubusercontent.com/67172241/123692943-ced31500-d82d-11eb-8836-222405017a66.png)
-![image](https://user-images.githubusercontent.com/67172241/123695551-10b18a80-d831-11eb-8aa2-85411c5c61f8.png)
-![image](https://user-images.githubusercontent.com/67172241/123694045-3178e080-d82f-11eb-8383-910e3411e629.png)
-![image](https://user-images.githubusercontent.com/67172241/123694071-39d11b80-d82f-11eb-8c88-89f02baa98ab.png)
-![image](https://user-images.githubusercontent.com/67172241/123694121-4786a100-d82f-11eb-8e0b-e896f9e95f7f.png)
-
+<a href="https://www.facebook.com/wagner.lobo.33/" target="blank">
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
+</a>
 
 My skills 
 
