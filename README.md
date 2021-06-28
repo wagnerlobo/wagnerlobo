@@ -17,6 +17,10 @@ My name is Wagner Lobo, student of software engineering and systems analysis and
 
 Reach me Out
 
+  <a href="https://www.facebook.com/wagner.lobo.33/" target="_blank">
+   <img align="center" alt="wagner lobo facebook" height="30" width="40" src="https://www.facebook.com/wagner.lobo.33/" >
+    </a>
+
 ![image](https://user-images.githubusercontent.com/67172241/123692533-4c4a5580-d82d-11eb-8e29-412d4951b42d.png)
 ![image](https://user-images.githubusercontent.com/67172241/123692943-ced31500-d82d-11eb-8836-222405017a66.png)
 ![image](https://user-images.githubusercontent.com/67172241/123695551-10b18a80-d831-11eb-8aa2-85411c5c61f8.png)
