@@ -16,7 +16,7 @@ My name is Wagner Lobo, student of software engineering and systems analysis and
 💻 Student of Software Engineering and Systems Analysis and Development
 
 
-
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 <!--
 **wagnerlobo/wagnerlobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
