@@ -25,6 +25,19 @@ Reach me Out
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
 </a>
 
+<a href="https://www.linkedin.com/in/wagner-lobo-578b9b1b0/" target="blank">
+<img height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+</a>
+
+<a href="https://instagram.com/professorwagnerlobo?utm_medium=copy_link" target="blank">
+<img height="30" width="40" src="https://i1.wp.com/multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente.png?resize=768%2C767&ssl=1" >
+</a>
+
+<a href="https://www.youtube.com/channel/UCU6At0WRtUb0othsptuosoA" target="blank">
+<img height="30" width="40" src="https://image.flaticon.com/icons/png/128/124/124015.png">
+</a>
+
+
 My skills 
 
 ![image](https://user-images.githubusercontent.com/67172241/123693632-ab5c9a00-d82e-11eb-9cbe-a3c190e561a4.png)
