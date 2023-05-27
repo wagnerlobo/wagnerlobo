@@ -32,13 +32,13 @@ Reach me Out
 </a>
 
 <a href="https://www.linkedin.com/in/wagner-lobo-578b9b1b0/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-wagner_lobo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/professorwagnerlobo?utm_medium=copy_link" target="blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-wagner_lobo-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://www.youtube.com/channel/UCU6At0WRtUb0othsptuosoA" target="blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+ <img align="center" src="https://img.shields.io/badge/-wagner_lobo-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
 <br><br>
