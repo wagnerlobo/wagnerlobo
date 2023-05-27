@@ -23,12 +23,25 @@ Reach me Out
 
 
 [![Blog](https://img.shields.io/website?label=wagnerlobocombr.com&style=for-the-badge&url=https://wagnerlobocombr.com/)](https://wagnerlobocombr.com)
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://codepen.io/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+
 <a href="https://www.linkedin.com/in/wagner-lobo-578b9b1b0/" target="blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/professorwagnerlobo?utm_medium=copy_link" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/professorwagnerlobo?utm_medium=copy_link" target="blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://www.youtube.com/channel/UCU6At0WRtUb0othsptuosoA" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a><br><br>
+<a href="https://www.youtube.com/channel/UCU6At0WRtUb0othsptuosoA" target="blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+</p>
+<br><br>
 
 
 
