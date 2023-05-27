@@ -21,9 +21,7 @@ I'm a student of software engineering and systems analysis and development, look
 
 Reach me Out
 
-<a href="https://www.facebook.com/wagner.lobo.33/" target="blank">
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
-</a>
+
 
 <a href="https://www.linkedin.com/in/wagner-lobo-578b9b1b0/" target="blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -36,9 +34,7 @@ Reach me Out
 <img height="30" width="40" src="https://image.flaticon.com/icons/png/128/124/124015.png">
 </a>
 
-<a href="https://t.me/Prof_Wagner_lobo" target="blank">
-<img height="30" width="40"src="https://image.flaticon.com/icons/png/128/124/124019.png" alt="">
-</a>
+
 
 My skills 
 
