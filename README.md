@@ -22,7 +22,7 @@ I'm a student of software engineering and systems analysis and development, look
 Reach me Out
 
 
-
+[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
 <a href="https://www.linkedin.com/in/wagner-lobo-578b9b1b0/" target="blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </a>
