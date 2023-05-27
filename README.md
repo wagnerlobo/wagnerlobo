@@ -40,10 +40,6 @@ Reach me Out
 <a href="https://t.me/Prof_Wagner_lobo" target="blank">
 <img height="30" width="40"src="https://image.flaticon.com/icons/png/128/124/124019.png" alt="">
 </a>
-
-
-
-
 My skills 
 
 <div style="display: inline_block"><br>
