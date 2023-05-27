@@ -28,7 +28,6 @@ I'm a student of software engineering and systems analysis and development, look
 
 <p align="left" style="background:yellow">
 
-
 <a href="https://www.linkedin.com/in/wagner-lobo-578b9b1b0/" target="blank">
   <img align="center" src="https://img.shields.io/badge/-wagner_lobo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
@@ -39,7 +38,7 @@ I'm a student of software engineering and systems analysis and development, look
  <img align="center" src="https://img.shields.io/badge/-wagner_lobo-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
-<br><br>
+
 
 
 
