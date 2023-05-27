@@ -27,9 +27,7 @@ Reach me Out
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
+
 
 <a href="https://www.linkedin.com/in/wagner-lobo-578b9b1b0/" target="blank">
   <img align="center" src="https://img.shields.io/badge/-wagner_lobo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
