@@ -26,10 +26,8 @@ Reach me Out
 <a href="https://www.linkedin.com/in/wagner-lobo-578b9b1b0/" target="blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </a>
-
 <a href="https://instagram.com/professorwagnerlobo?utm_medium=copy_link" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </a>
-
 <a href="https://www.youtube.com/channel/UCU6At0WRtUb0othsptuosoA" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 
