@@ -41,23 +41,18 @@ Reach me Out
 <img height="30" width="40"src="https://image.flaticon.com/icons/png/128/124/124019.png" alt="">
 </a>
 
+
+
+
+My skills 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-
-
-My skills 
-
-![image](https://user-images.githubusercontent.com/67172241/123693632-ab5c9a00-d82e-11eb-9cbe-a3c190e561a4.png)
-![image](https://user-images.githubusercontent.com/67172241/123693658-b7e0f280-d82e-11eb-9c73-5c912574074c.png)
-![image](https://user-images.githubusercontent.com/67172241/123693694-c16a5a80-d82e-11eb-91d9-ef6d5599d384.png)
-![image](https://user-images.githubusercontent.com/67172241/123693982-1ad28980-d82f-11eb-842d-8ccc93d72a9a.png)
+  </div>
 
 
 
