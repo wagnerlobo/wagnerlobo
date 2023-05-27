@@ -1,6 +1,6 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://edools-3-production.s3.amazonaws.com/org-1351%2Fschool-1350%2F18d000796de6eda87876e9208489cd4e%2FFOTO+PARA+SITE+-+WAGNER+LOGO.jpg" height="30px">, I'm Wagner Lobo</h1>
+<h1 align="left">Hi >, I'm Wagner Lobo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 #### live in Brazil, in the northeast of the country, blessed land 
