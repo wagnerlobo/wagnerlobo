@@ -19,7 +19,7 @@ I'm a student of software engineering and systems analysis and development, look
 
 💻 Student of Software Engineering and Systems Analysis and Development
 
-Reach me Out
+## Reach me Out
 
 
 [![Blog](https://img.shields.io/website?label=wagnerlobocombr.com&style=for-the-badge&url=https://wagnerlobocombr.com/)](https://wagnerlobocombr.com)
@@ -44,7 +44,7 @@ Reach me Out
 
 
 
-My skills 
+## My skills 
 <div style="display: inline_block">
 
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
