@@ -29,7 +29,7 @@ Reach me Out
 <img height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 </a>
 
-<a href="https://instagram.com/professorwagnerlobo?utm_medium=copy_link" target="blank">
+<a href="https://instagram.com/professorwagnerlobo?utm_medium=copy_link" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <img height="30" width="40" src="https://i1.wp.com/multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente.png?resize=768%2C767&ssl=1" >
 </a>
 
