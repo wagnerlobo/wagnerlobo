@@ -32,9 +32,6 @@ Reach me Out
 
 <a href="https://www.youtube.com/channel/UCU6At0WRtUb0othsptuosoA" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
-</a>
-
-
 
 My skills 
 
