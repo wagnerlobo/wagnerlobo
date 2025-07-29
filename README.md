@@ -95,8 +95,6 @@ Me chamo Wagner Lobo, tenho 46 anos e sou natural do Ceará. Concluí o curso de
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
-
-
 <img 
     align="left" 
     alt="Git" 
@@ -107,11 +105,11 @@ Me chamo Wagner Lobo, tenho 46 anos e sou natural do Ceará. Concluí o curso de
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="PHP" 
+    title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 
 <br/>
