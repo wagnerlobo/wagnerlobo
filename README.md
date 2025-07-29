@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Wagner Lobo
+# 👨‍💻 Wagner Lobo
 
 **`Desenvolvedor Front-end`**
 
