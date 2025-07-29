@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Wagner Lobo, tenho 46 anos e sou natural do Ceará. Concluí o curso de ADS - Análise e Desenvolvimento de Sistemas em 2022, em meio à pandemia de Covid-19. Depois passei a fazer outros cursos, como Engenharia da Computação e uma Pós-graduação em Engenharia de redes. Também fiz cursos de técnico em informática, e outros tambem na área de tecnologia. Atualmente, estou cursando Engenharia da Computação, na ANHANGUERA. Sou apaixonado por tecnologia e compartilho meu conhecimento através de aulas presenciais e online, inclusive no YouTube ".
+Me chamo Wagner Lobo, tenho 46 anos e sou natural do Ceará. Concluí o curso de ADS - Análise e Desenvolvimento de Sistemas em 2022, em meio à pandemia de Covid-19. Depois passei a fazer outros cursos, como Engenharia da Computação e uma Pós-graduação em Engenharia de redes. Também fiz cursos de técnico em informática, e outros tambem na área de tecnologia. Atualmente, estou cursando Engenharia da Computação, na ANHANGUERA. Sou apaixonado por tecnologia e compartilho meu conhecimento através de aulas presenciais e online, inclusive no YouTube "[Professor Wagner Lobo](https://www.youtube.com/@professorwagnerlobo1467)".
 
 <p align="left">
     <a href="https://www.youtube.com/@professorwagnerlobo1467?sub_confirmation=1">
