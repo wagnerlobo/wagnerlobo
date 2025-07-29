@@ -16,7 +16,7 @@ Me chamo Wagner Lobo, tenho 46 anos e sou natural do Ceará. Concluí o curso de
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/channel/UCU6At0WRtUb0othsptuosoA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-                badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/channel/channel/UCU6At0WRtUb0othsptuosoA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-          badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/wagnerlobo?tab=repositories&sort=stargazers">
