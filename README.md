@@ -9,21 +9,21 @@ Me chamo Wagner Lobo, tenho 46 anos e sou natural do Ceará. Concluí o curso de
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-           src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-              badge&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@professorwagnerlobo1467">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/channel/UCU6At0WRtUb0othsptuosoA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-                badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/wagnerlobo?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/wagnerlobo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/wagnerlobo?tab=followers">
