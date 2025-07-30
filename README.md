@@ -5,20 +5,21 @@
 Me chamo Wagner Lobo, tenho 46 anos e sou natural do Ceará. Concluí o curso de ADS - Análise e Desenvolvimento de Sistemas em 2022, em meio à pandemia de Covid-19. Depois passei a fazer outros cursos, como Engenharia da Computação e uma Pós-graduação em Engenharia de redes. Também fiz cursos de técnico em informática, e outros tambem na área de tecnologia. Atualmente, estou cursando Engenharia da Computação, na ANHANGUERA. Sou apaixonado por tecnologia e compartilho meu conhecimento através de aulas presenciais e online, inclusive no YouTube "[Professor Wagner Lobo](https://www.youtube.com/@professorwagnerlobo1467)".
 
 <p align="left">
-    <a href="https://www.youtube.com/@professorwagnerlobo1467?sub_confirmation=1">
+    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
-            alt="inscritos" 
+            alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/channel/UCU6At0WRtUb0othsptuosoA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@professorwagnerlobo1467">
+    <a href="https://www.youtube.com/@larissakich">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/channel/channel/UCU6At0WRtUb0othsptuosoA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-          badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
+    
     <a href="https://github.com/wagnerlobo?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
