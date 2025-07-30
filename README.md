@@ -19,7 +19,7 @@ Me chamo Wagner Lobo, tenho 46 anos e sou natural do Ceará. Concluí o curso de
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    
+    </a>
     <a href="https://github.com/wagnerlobo?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
