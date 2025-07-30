@@ -127,12 +127,6 @@ Me chamo Wagner Lobo, tenho 46 anos e sou natural do Ceará. Concluí o curso de
     src="https://github-readme-stats.vercel.app/api?username=wagnerlobo&show_icons=true&theme=transparent" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)"
-  />
 
 </p>
 
