@@ -1,8 +1,8 @@
 # 👨‍💻 Wagner Lobo
 
-**`Desenvolvedor Front-end`**
+**`Back-end Developer`**
 
-Me chamo Wagner Lobo, natural do Ceará. Concluí o curso de ADS - Análise e Desenvolvimento de Sistemas em 2022, em meio à pandemia de Covid-19. Depois passei a fazer outros cursos, como Engenharia da Computação e uma Pós-graduação em Engenharia de redes. Também fiz cursos de técnico em informática, e outros tambem na área de tecnologia. Atualmente, estou cursando Engenharia da Computação, na ANHANGUERA. Sou apaixonado por tecnologia e compartilho meu conhecimento através de aulas presenciais e online, inclusive no YouTube "[Professor Wagner Lobo](https://www.youtube.com/@professorwagnerlobo1467)".
+My name is Wagner Lobo, and I am originally from Ceará. I completed a degree in Systems Analysis and Development (ADS) in 2022, amidst the COVID-19 pandemic. Subsequently, I pursued further studies, including Computer Engineering and a postgraduate program in Network Engineering. I also completed courses in IT support and other technology-related fields. Currently, I am studying Computer Science at UNIFAMETRO. I am passionate about technology and share my knowledge through both in-person and online classes, including on my YouTube channel, "Professor Wagner Lobo."".
 
 <p align="left">
     <a href="https://www.youtube.com/@professorwagnerlobo1467?sub_confirmation=1">
